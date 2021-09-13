@@ -13,5 +13,5 @@ int main()
   if (!rootAdd) {
     fprintf(stderr, "Error code: %s", strerror(errno)); 
   }
-   
+  puts("The system may need a reboot or a sign in/sign out.\nTested rebooting");
 }
