@@ -4,4 +4,4 @@ Learning lower level programming and secure programming.
  * Windows 10 System Programming Part 1 by Pavel Yosifovich
  * MSDN Win API
  * Effective C by Robert C. Seacord
- * (SEI CERT Coding Standards CMU)[https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards]
+ * [SEI CERT Coding Standards CMU](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards)
