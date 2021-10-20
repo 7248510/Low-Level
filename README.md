@@ -5,3 +5,5 @@ Learning lower level programming and secure programming.
  * MSDN Win API
  * Effective C by Robert C. Seacord
  * [SEI CERT Coding Standards CMU](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards)
+ * Operating Systems Three Easy Pieces by Remzi H. Arpaci-Dusseau & Andrea C. Arpaci-Dusseau
+  
